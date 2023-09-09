@@ -14,6 +14,7 @@ Each of these sets of training data are then used to train four ML classificatio
 
 K-Fold cross validation is performed on each model (with different metrics).
 
-F1 Score, Recall, and Average precision scores are used to determine the best perfoming model, which turned out to be Logistic Regression. 
+F1 Score, Recall, and Average precision scores are used to determine the best perfoming model, which turned out to be Logistic Regression for Average Precision.
 
-A few sample reviews were used to confirm the prediction of the model.
+[Find full notebook here.](https://nbviewer.org/github/tgautam16/Sentiment_analysis_e-commerce/blob/main/Customer_reviews_sentiment_analysis_size_red.ipynb)
+
