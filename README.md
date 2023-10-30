@@ -16,5 +16,5 @@ K-Fold cross validation is performed on each model (with different metrics).
 
 The mean of F1 Score, Recall, and Average precision scores are used to determine the best perfoming model, which turned out to be Logistic Regression for all the metrics.
 
-[Find full notebook here.](https://nbviewer.org/github/tgautam16/Sentiment_analysis_e-commerce/blob/main/Customer_reviews_sentiment_analysis.ipynb)
+[Find full notebook here.](https://nbviewer.org/github/tgautam16/Sentiment_analysis_e-commerce/blob/main/Sentiment_analysis_e-commerce-reviews.ipynb)
 
